@@ -15,6 +15,6 @@ let package = Package(
             targets: ["rtengine"]),
     ],
     targets: [
-        .binaryTarget(name: "rtengine", url: "https://repo.rutoken.ru/repository/xcframework/releases/rtengine-3/rtengine-3-4cc5fba2be5b10a2d0673c381fdd03fb2aa7c7b6.zip", checksum: "d56ece777180ef00160630936a99ee8b8a450be8e257448bb0668867caa71ae2")
+        .binaryTarget(name: "rtengine", url: "https://repo.rutoken.ru/repository/xcframework/releases/rtengine-3/rtengine-25e282e53fe8f3ef1a0c31e36cf87fc29229813c.zip", checksum: "ab0bac35167acf6b58643e6744f833bb25d61cc5ea1b56ffd2d8828f0ec527bc")
     ]
 )
